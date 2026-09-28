@@ -2,7 +2,7 @@ VITyarthi CSE Project
 XYZ Bank Support – Customer Care Helpline
  Project Description
 
-XYZ Bank Support is a simple Python-based Customer Care Helpline / IVR (Interactive Voice Response) System.
+XYZ Bank Support is a simple Python-based Customer Care Helpline System.
 
 The project simulates what happens when a customer calls a bank's helpline number. The system displays different options and allows the user to select services such as checking account balance, blocking a lost or stolen debit card, getting loan and internet banking support, or connecting with a customer care executive.
 
